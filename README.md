@@ -29,7 +29,7 @@ Buyer can have it delivered to any address-home, office or the park.
 My responsibilities included complete structural architecture and development of Android applications and creating a complete app and backend architecture based on requirements.  
 
 ### Technologies ###
-Java | Firebase | Firebase Messaging  | CoreLocation  | SQLITE  | Facebook SDK |
+Java | Firebase | Firebase Messaging  | CoreLocation  | SQLITE  | Facebook SDK 
 
 <p align="center">
 <img src="images/d1.png" width="190">&nbsp;&nbsp;
@@ -50,7 +50,7 @@ Whether you’re moving your business boxes or personal stuff in town or across 
 Team Lead and android developer. The application uses event driver and socket io based architectural pattern as communication protocols. 
 
 ### Technologies ###
-Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
+Java | Firebase | Google APIs | Retrofit | Mvvm | Picasso | Socketio | Google Maps | dagger
 
 <p align="center">
 <img src="images/c11.png" width="190">
