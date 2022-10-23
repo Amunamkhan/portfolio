@@ -37,11 +37,13 @@ Java | Firebase | Firebase Messaging  | CoreLocation  | SQLITE  | Facebook SDK |
 
 </p>
 
-## [Recovery](https://play.google.com/store/apps/details?id=com.devicebee.recovery)
+## [Cargo Cab](https://play.google.com/store/apps/details?id=com.devicebee.cargocab&hl=en_GB&gl=US)
 
-Recovery is an on demand application that allows the customers to immediately book a recovery service using the app within just few taps. You will never be stuck on the road again, Recovery covers the whole UAE. Recovery will tow your vehicle to your favorite garage, or  can recover your car so you are back on the road in no time. Flat tire? Out of fuel? stuck somewhere? battery died? No problem!
+Cargo Cab is a multi service app for fast, reliable instant services just in minutes—day or night.
 
-The application connects with the available service providers in the area according to user's set location.
+There’s no need to look for a truck or search on line for towing car. With Cargo Cab, you just tap to request a service, and it’s easy to pay with credit or cash in select cities.
+
+Whether you’re moving your business boxes or personal stuff in town or across town, there’s an instant service for you.
 
 ### My Role ###
 Team Lead and android developer. The application uses event driver and socketio based architectural pattern as communication protocls. 
@@ -50,9 +52,10 @@ Team Lead and android developer. The application uses event driver and socketio 
 Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
 
 <p align="center">
-<img src="images/d1.jpg" width="190">
-<img src="images/d2.jpg" width="190">
-<img src="images/d3.jpg" width="1380">
+<img src="images/c1.jpg" width="190">
+<img src="images/c2.jpg" width="190">
+<img src="images/c3.jpg" width="190">
+<img src="images/c4.jpg" width="190">
 
 </p>
 
@@ -106,5 +109,5 @@ Sole architect and solution developer.
 ### Technologies ###
 Vuejs | Material UI Components | Thermal Printer plugin  | Firebase | Payment Gateways | Automation 
 <p align="center">
-<img src="images/shift.png" width="700">
+<img src="images/m1.png" width="700">
 </p>
