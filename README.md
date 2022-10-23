@@ -4,7 +4,7 @@
 
 Senior Mobile Apps Developer with 8+ years of experience. My career includes architecture & developement of app solutions for Corporates/Individual clients in Dubai, Spain and Pakistan.
 
-Journey started as a mobile app developer from 2013. Android 2.2 was the gateway drug but it gave way to Backend,Fronend and its ecosystem.Loves trying out bleeding-edge technologies and spending every spare hour learning new stuff. 
+Journey started as a mobile app developer from 2013. Android 2.2 was the gateway drug but it gave way to backend,fronend and its ecosystem.Loves trying out bleeding-edge technologies and spending every spare hour learning new stuff. 
 
 Throughout all those years I've worked with almost every part of MobileApps - bluetooth, camera, storages, maps & location, messaging, video/audio recording & playback, custom views & animations, payments, and many, many others. Apps that I've created applied to many different areas - Social Media, Location-based, Buy & Sell Marketplace, Messaging, Files storage etc. I’ve worked with, and got to know various technical solutions, like: RxJava and functional/reactive programming, unit testing, automated functional testing, Dependency Injection frameworks - Dagger, Guice, NoSQL databases, OpenGL etc. 
  
@@ -27,10 +27,10 @@ Groceries delivered to you in just a few clicks! No need to go out to the superm
 Buyer can have it delivered to any address-home, office or the park.
 
 ### My Role ###
-Team Lead & Architect for Dukkaani mobile apps (iOS/Android). My resposibilites included complete structural architecture and development of iOS application and create a complete app and backend architecture based on requirements. The architecture also includes AI based smart reporting system. 
+My resposibilites included complete structural architecture and development of Android application and create a complete app and backend architecture based on requirements.  
 
 ### Technologies ###
-Swift(4-5) | Firebase | Firebase Messaging | Firestore | CoreLocation | Storyboards | CoreData | Intercom | Hero | SwiftJWT | Facebook SDK | XCTests | lottie-ios | CD -> Fastlane
+Java | Firebase | Firebase Messaging  | CoreLocation  | SQLITE  | Facebook SDK |
 
 <p align="center">
 <img src="images/duk1.png" width="190">&nbsp;&nbsp;
@@ -39,48 +39,33 @@ Swift(4-5) | Firebase | Firebase Messaging | Firestore | CoreLocation | Storyboa
 <img src="images/duk4.png" width="190">
 </p>
 
-<img src="images/demo.gif?raw=true"/>
 
-### Installation
+# 💻 Front-End
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+## [Lazzy](https://www.lazzy.com)
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+Lazzy designs, develops, and deploys small to enterprise scale delivery technology solutions for companies who need to integrate or expand their delivery operations over multiple internet channels including phone, web, mobile web, and mobile applications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Role ###
+As a front end developer, I updated the existing management system ensuring the stability of the system and adding new features and modules.
 
-### Markdown
+### Technologies ###
+Reactjs | Material UI Components | AWS | SWR | Loadash | React Hooks | React Virtualized | Context API
+<p align="center">
+<img src="images/lazzy.png" width="700">
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [movileuros]([https://manage.tryshiftt.com/](https://recargas.movileuros.com/))
 
-```markdown
-Syntax highlighted code block
+With shift you will move to the next level in the online business space. SHIFT provide you with your own customizable e-store that will suit all your needs. Available with In-depth data on a user-friendly dashboard to help track your Shift activity.
 
-# Header 1
-## Header 2
-### Header 3
+SHIFT portal is a startup with a friend. The system works on the principle of shopify but similar and is designed to target micro as well as macro businesses.
 
-- Bulleted
-- List
+### My Role ###
+Sole architect and solution developer.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+### Technologies ###
+Angular | Material UI Components | Ng Zorro | Typescript | Firestore | Firebase | Google Maps | Automation | Elastic Search
+<p align="center">
+<img src="images/shift.png" width="700">
+</p>
