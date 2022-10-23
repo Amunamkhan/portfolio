@@ -113,4 +113,11 @@ Vuejs | Material UI Components | Thermal Printer plugin  | Firebase | Payment Ga
 <img src="images/m1.png" width="700">
 </p>
 
+# Other Projects
 
+1. [Tnerit](https://play.google.com/store/apps/details?id=com.devicebee.tnerit)
+2.  [Eros](https://play.google.com/store/apps/details?id=com.devicebee.eros)
+4. [True directory](https://play.google.com/store/apps/details?id=com.truedirectory.caller.id.callblocker)
+5. [NEXT - Book a ride in few taps](https://play.google.com/store/apps/details?id=com.devicebee.app.nextcar)
+
+ 
