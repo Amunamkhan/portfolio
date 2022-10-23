@@ -10,11 +10,11 @@ Throughout all those years I've worked with almost every part of MobileApps - bl
  
 
 <h4 align="center">
-👨‍💻 Language stack
+👨‍💻 Language/Framework stack
 </h4>
  
  <p align="center">
-👨‍💻 Java | Kotlin | PHP | Nodejs | Reactjs | ReactNative | Vuejs | Typescript
+👨‍💻 Java | Kotlin | PHP | Nodejs | Reactjs | ReactNative | Vuejs | Flutter
 </p>
 
 
@@ -39,12 +39,66 @@ Java | Firebase | Firebase Messaging  | CoreLocation  | SQLITE  | Facebook SDK |
 <img src="images/duk4.png" width="190">
 </p>
 
+## [Recovery](https://play.google.com/store/apps/details?id=com.devicebee.recovery)
+
+Recovery is an on demand application that allows the customers to immediately book a recovery service using the app within just few taps. You will never be stuck on the road again, Recovery covers the whole UAE. Recovery will tow your vehicle to your favorite garage, or  can recover your car so you are back on the road in no time. Flat tire? Out of fuel? stuck somewhere? battery died? No problem!
+
+The application connects with the available service providers in the area according to user's set location.
+
+### My Role ###
+Team Lead and android developer. The application uses event driver and socketio based architectural pattern as communication protocls. 
+
+### Technologies ###
+Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
+
+<p align="center">
+<img src="images/recovery.jpg" width="190">
+<img src="images/recovery2.jpg" width="190">
+<img src="images/recovery3.jpg" width="190">
+<img src="images/recovery4.jpg" width="190">
+</p>
+
+# [Recovery](https://play.google.com/store/apps/details?id=com.devicebee.recovery)
+
+Recovery is an on demand application that allows the customers to immediately book a recovery service using the app within just few taps. You will never be stuck on the road again, Recovery covers the whole UAE. Recovery will tow your vehicle to your favorite garage, or  can recover your car so you are back on the road in no time. Flat tire? Out of fuel? stuck somewhere? battery died? No problem!
+
+The application connects with the available service providers in the area according to user's set location.
+
+### My Role ###
+Team Lead and android developer. The application uses event driver and socketio based architectural pattern as communication protocls. 
+
+### Technologies ###
+Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
+
+<p align="center">
+<img src="images/recovery.jpg" width="190">
+<img src="images/recovery2.jpg" width="190">
+<img src="images/recovery3.jpg" width="190">
+<img src="images/recovery4.jpg" width="190">
+</p>
+
+# [Facekart](https://play.google.com/store/apps/details?id=com.facekart.app&hl=en_GB&gl=US)
+
+FaceKart is a Pakistan made app providing a wide range of services. We offer everyday essential services to our users. These essential services consist of Deliveries (food, groceries & medicens) & Services (Electricians, Plumbers, Carpenter, Rent a Car, Ac Technian & Doctors etc).
+
+### My Role ###
+Team Lead and android developer. The application uses event driver and socketio based architectural pattern as communication protocls. 
+
+### Technologies ###
+Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
+
+<p align="center">
+<img src="images/recovery.jpg" width="190">
+<img src="images/recovery2.jpg" width="190">
+<img src="images/recovery3.jpg" width="190">
+<img src="images/recovery4.jpg" width="190">
+</p>
 
 
 
-# 💻 Front-End
+## 💻 Front-End
 
-## [movileuros](https://recargas.movileuros.com/))
+## [movileuros](https://recargas.movileuros.com/)
 
 The Fastest Way to Send Mobile Top Up Internationally. Secure & Easy. Send Top Up Now! Send Mobile Recharge Online in Seconds with movileuros. Top Up Promos. Transparent Pricing. 550+ Operators. Stay Connected with F&F. Multiple Payment Options.
 
