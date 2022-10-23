@@ -40,32 +40,19 @@ Java | Firebase | Firebase Messaging  | CoreLocation  | SQLITE  | Facebook SDK |
 </p>
 
 
+
+
 # 💻 Front-End
 
-## [Lazzy](https://www.lazzy.com)
+## [movileuros](https://recargas.movileuros.com/))
 
-Lazzy designs, develops, and deploys small to enterprise scale delivery technology solutions for companies who need to integrate or expand their delivery operations over multiple internet channels including phone, web, mobile web, and mobile applications.
-
-### My Role ###
-As a front end developer, I updated the existing management system ensuring the stability of the system and adding new features and modules.
-
-### Technologies ###
-Reactjs | Material UI Components | AWS | SWR | Loadash | React Hooks | React Virtualized | Context API
-<p align="center">
-<img src="images/lazzy.png" width="700">
-</p>
-
-## [movileuros]([https://manage.tryshiftt.com/](https://recargas.movileuros.com/))
-
-With shift you will move to the next level in the online business space. SHIFT provide you with your own customizable e-store that will suit all your needs. Available with In-depth data on a user-friendly dashboard to help track your Shift activity.
-
-SHIFT portal is a startup with a friend. The system works on the principle of shopify but similar and is designed to target micro as well as macro businesses.
+The Fastest Way to Send Mobile Top Up Internationally. Secure & Easy. Send Top Up Now! Send Mobile Recharge Online in Seconds with movileuros. Top Up Promos. Transparent Pricing. 550+ Operators. Stay Connected with F&F. Multiple Payment Options.
 
 ### My Role ###
 Sole architect and solution developer.
 
 ### Technologies ###
-Angular | Material UI Components | Ng Zorro | Typescript | Firestore | Firebase | Google Maps | Automation | Elastic Search
+Vuejs | Material UI Components | Thermal Printer plugin  | Firebase | Payment Gateways | Automation 
 <p align="center">
 <img src="images/shift.png" width="700">
 </p>
