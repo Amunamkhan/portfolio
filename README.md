@@ -52,10 +52,10 @@ Team Lead and android developer. The application uses event driver and socketio 
 Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
 
 <p align="center">
-<img src="images/recovery.jpg" width="190">
-<img src="images/recovery2.jpg" width="190">
-<img src="images/recovery3.jpg" width="190">
-<img src="images/recovery4.jpg" width="190">
+<img src="images/d1.jpg" width="190">
+<img src="images/d2.jpg" width="190">
+<img src="images/d3.jpg" width="1380">
+
 </p>
 
 # [Recovery](https://play.google.com/store/apps/details?id=com.devicebee.recovery)
