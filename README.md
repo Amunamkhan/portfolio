@@ -5,9 +5,7 @@
 Senior Mobile Apps Developer with 8+ years of experience. My career includes architecture & developement of app solutions for Corporates/Individual clients in Dubai, Spain and Pakistan.
 
 Journey started as a mobile app developer from 2013. Android 2.2 was the gateway drug but it gave way to backend,fronend and its ecosystem.Loves trying out bleeding-edge technologies and spending every spare hour learning new stuff. 
-
-Throughout all those years I've worked with almost every part of MobileApps - bluetooth, camera, storages, maps & location, messaging, video/audio recording & playback, custom views & animations, payments, and many, many others. Apps that I've created applied to many different areas - Social Media, Location-based, Buy & Sell Marketplace, Messaging, Files storage etc. I’ve worked with, and got to know various technical solutions, like: RxJava and functional/reactive programming, unit testing, automated functional testing, Dependency Injection frameworks - Dagger, Guice, NoSQL databases, OpenGL etc. 
- 
+  
 
 <h4 align="center">
 👨‍💻 Language/Framework stack
@@ -33,10 +31,10 @@ My resposibilites included complete structural architecture and development of A
 Java | Firebase | Firebase Messaging  | CoreLocation  | SQLITE  | Facebook SDK |
 
 <p align="center">
-<img src="images/duk1.png" width="190">&nbsp;&nbsp;
-<img src="images/duk2.png" width="190">&nbsp;&nbsp;
-<img src="images/duk3.png" width="190">&nbsp;&nbsp;
-<img src="images/duk4.png" width="190">
+<img src="images/d1.png" width="190">&nbsp;&nbsp;
+<img src="images/d2.png" width="190">&nbsp;&nbsp;
+<img src="images/d3.png" width="380">&nbsp;&nbsp;
+
 </p>
 
 ## [Recovery](https://play.google.com/store/apps/details?id=com.devicebee.recovery)
