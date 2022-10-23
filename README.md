@@ -89,10 +89,10 @@ Team Lead and android developer. The application uses event driver and socketio 
 Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
 
 <p align="center">
-<img src="images/r1.jpg" width="190">
-<img src="images/recovery2.jpg" width="190">
-<img src="images/recovery3.jpg" width="190">
-<img src="images/recovery4.jpg" width="190">
+<img src="images/f1.png" width="190">
+<img src="images/f2.png" width="190">
+<img src="images/f3.png" width="190">
+<img src="images/f4.png" width="190">
 </p>
 
 
