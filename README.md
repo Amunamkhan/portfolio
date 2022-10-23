@@ -69,10 +69,10 @@ Team Lead and android developer. The application uses event driver and socketio 
 Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
 
 <p align="center">
-<img src="images/recovery.jpg" width="190">
-<img src="images/recovery2.jpg" width="190">
-<img src="images/recovery3.jpg" width="190">
-<img src="images/recovery4.jpg" width="190">
+<img src="images/r1.jpg" width="190">
+<img src="images/r2.jpg" width="190">
+<img src="images/r3.jpg" width="190">
+<img src="images/r4.jpg" width="190">
 </p>
 
 # [Facekart](https://play.google.com/store/apps/details?id=com.facekart.app&hl=en_GB&gl=US)
@@ -86,7 +86,7 @@ Team Lead and android developer. The application uses event driver and socketio 
 Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
 
 <p align="center">
-<img src="images/recovery.jpg" width="190">
+<img src="images/r1.jpg" width="190">
 <img src="images/recovery2.jpg" width="190">
 <img src="images/recovery3.jpg" width="190">
 <img src="images/recovery4.jpg" width="190">
