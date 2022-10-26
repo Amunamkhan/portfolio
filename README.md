@@ -119,5 +119,6 @@ Vuejs | Material UI Components | Thermal Printer plugin  | Firebase | Payment Ga
 2.  [Eros](https://play.google.com/store/apps/details?id=com.devicebee.eros)
 4. [True directory](https://play.google.com/store/apps/details?id=com.truedirectory.caller.id.callblocker)
 5. [NEXT - Book a ride in few taps](https://play.google.com/store/apps/details?id=com.devicebee.app.nextcar)
+6- [Thriftme](https://play.google.com/store/apps/details?id=com.thriftme)
 
  
