@@ -87,7 +87,7 @@ FaceKart is a Pakistan made app providing a wide range of services. We offer eve
 Team Lead and android developer. The application uses event driver and socket io based architectural pattern as communication protocols. 
 
 ### Technologies ###
-Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
+Kotlin | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
 
 <p align="center">
 <img src="images/f1.png" width="190">
@@ -120,5 +120,6 @@ Vuejs | Material UI Components | Thermal Printer plugin  | Firebase | Payment Ga
 4. [True directory](https://play.google.com/store/apps/details?id=com.truedirectory.caller.id.callblocker)
 5. [NEXT - Book a ride in few taps](https://play.google.com/store/apps/details?id=com.devicebee.app.nextcar)
 6. [Thriftme](https://play.google.com/store/apps/details?id=com.thriftme)
+7. 6. [Thriftme](https://play.google.com/store/apps/details?id=com.thriftme)
 
  
