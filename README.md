@@ -13,7 +13,7 @@ Journey started as a mobile app developer in 2013. Android 2.0 was the gateway d
 </h4>
  
  <p align="center">
- Java | Kotlin | PHP | Nodejs | Reactjs | ReactNative | Vuejs | Flutter
+ Java | Kotlin | Vuejs 
 </p>
 
 
